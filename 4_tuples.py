@@ -1,4 +1,3 @@
-
 thistuple = ("grape", "orange", "peach")
 print(len(thistuple))  # Output: 3
 

@@ -18,4 +18,9 @@ def myFunction() :
 if myFunction():
   print("YES!")
 else:
+<<<<<<< HEAD
   print("NO!")
+=======
+  print("NO!")
+
+>>>>>>> 5af04ac69bc32451f93deb953eeff88e1fdb3e24

@@ -1,4 +1,3 @@
-
 thisset = {"apple", "banana", "cherry", "apple"}
 print(thisset)  # Output: {'banana', 'cherry', 'apple'}
 

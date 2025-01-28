@@ -1,4 +1,3 @@
-
 i = 1
 while i < 6:
     print(i)  # Output: 1 2 3 4 5

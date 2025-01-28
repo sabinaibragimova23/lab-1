@@ -1,4 +1,3 @@
-
 thislist = ["apple", "banana", "cherry", "apple", "cherry"]
 print(thislist)
 
@@ -242,4 +241,7 @@ list1 = ["x", "y", "z"]
 list2 = [10, 20, 30]
 
 list1.extend(list2)
+
 print(list1)  # Output: ['x', 'y', 'z', 10, 20, 30]
+
+

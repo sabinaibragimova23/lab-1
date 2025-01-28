@@ -1,4 +1,3 @@
-
 #Arithmetic Operators
 
 x = 10
