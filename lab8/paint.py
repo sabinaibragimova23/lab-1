@@ -11,7 +11,7 @@ win = pygame.display.set_mode((win_x, win_y))
 pygame.display.set_caption('Paint')
 
 # Class for drawing 
-class drawing(object):
+class Drawing(object):
     def __init__(self):
         self.color = (0, 0, 0)
         self.width = 10
@@ -127,7 +127,7 @@ class drawing(object):
                 button.color = (100, 100, 100) if self.mode == "eraser" else (201, 201, 201)
 
 # Class for buttons
-class button(object):
+class Button(object):
     def __init__(self, x, y, width, height, color, color2, outline=0, action=0, text=''):
         self.x = x
         self.y = y
